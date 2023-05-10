@@ -1,0 +1,16 @@
+Item,Qty,Reference(s),Value,LibPart,Footprint,Datasheet
+1,4,"D1, D2, D3, D4",1N4148,Diode:1N4148,Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal,https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf
+2,2,"J1, J2",Conn_01x16 Hembra,Connector_Generic:Conn_01x16,Connector_PinHeader_2.54mm:PinHeader_1x16_P2.54mm_Vertical,~
+3,2,"J3, J4",Conn_01x16 Hembra,Connector_Generic:Conn_01x16,Connector_PinSocket_2.54mm:PinSocket_1x16_P2.54mm_Vertical,~
+4,1,J5,Conn_01x06,Connector_Generic:Conn_01x08,Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical,~
+5,1,J6,Conn_01x02,Connector_Generic:Conn_01x02,Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical,~
+6,1,J7,Conn_01x07,Connector_Generic:Conn_01x07,Connector_PinHeader_2.54mm:PinHeader_1x07_P2.54mm_Vertical,~
+7,4,"Q1, Q2, Q3, Q4",BSS84,Transistor_FET:BSS84,Package_TO_SOT_SMD:SOT-23,http://assets.nexperia.com/documents/data-sheet/BSS84.pdf
+8,8,"R1, R2, R3, R4, R5, R6, R7, R8",220,Device:R,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,~
+9,4,"R9, R11, R13, R15",470,Device:R,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,~
+10,4,"R10, R12, R14, R16",10K,Device:R,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,~
+11,1,SW1,SW_DIP_x04,Switch:SW_DIP_x04,Button_Switch_THT:SW_DIP_SPSTx04_Slide_9.78x12.34mm_W7.62mm_P2.54mm,~
+12,4,"SW5, SW6, SW7, SW8",SW_Push,Switch:SW_Push,Button_Switch_THT:SW_PUSH_6mm_H8mm,~
+13,1,U2,CA56-12CGKWA,Display_Character:CA56-12CGKWA,Display_7Segment:CA56-12CGKWA,http://www.kingbright.com/attachments/file/psearch/000/00/00/CA56-12CGKWA(Ver.9A).pdf
+14,1,U3,4556,4xxx_IEEE:4556,Package_DIP:DIP-16_W7.62mm_LongPads,
+15,1,U4,74LS47,74xx:74LS47,Package_DIP:DIP-16_W7.62mm_LongPads,http://www.ti.com/lit/gpn/sn74LS47
