@@ -95,7 +95,7 @@
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
-      (outputdirectory "gerbers/drill/")
+      (outputdirectory "fabrication/gerbers/10Mayo2023/")
     )
   )
 
